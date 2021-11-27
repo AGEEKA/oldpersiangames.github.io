@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-11-27T18:37:22.999Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-11-27T18:42:10.353Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-11-27T18:37:23.003Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-11-27T18:42:10.353Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-11-27T18:37:23.003Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-11-27T18:42:10.353Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-11-27T18:37:23.003Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-11-27T18:42:10.353Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -4061,6 +4061,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/highway-police-gerdoo/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/highway-police-gerdoo-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/hostage-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/hostage-asrebazi-1.jpg</image:loc>
@@ -4504,6 +4515,17 @@
             <loc>https://oldpersiangames.org/games/khale-ghezis-farm-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/khale-ghezis-farm-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/kill-off-the-enemy-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/kill-off-the-enemy-asrebazi-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9221,7 +9243,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-11-27T18:37:24.411Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-11-27T18:42:12.113Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
