@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-11-28T16:03:29.959Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-01T17:57:38.992Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-11-28T16:03:29.959Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-01T17:57:38.992Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-11-28T16:03:29.959Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-01T17:57:38.992Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-11-28T16:03:29.959Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-01T17:57:38.992Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -3725,6 +3725,17 @@
             <loc>https://oldpersiangames.org/games/global-operations-roga-novin/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/global-operations-roga-novin-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/golrang-tatyworld/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/golrang-tatyworld-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -7707,6 +7718,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/stronghold-2-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/stronghold-2-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/stronghold-2-magmasoft/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/stronghold-2-magmasoft-1.jpg</image:loc>
@@ -7853,6 +7875,17 @@
             <loc>https://oldpersiangames.org/games/stronghold-darinoos-novintechnology/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/stronghold-darinoos-novintechnology-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/stronghold-legends-darinoos/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/stronghold-legends-darinoos-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9243,7 +9276,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-11-28T16:03:31.635Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-01T17:57:40.712Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
