@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-19T19:02:41.360Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-19T19:02:41.360Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-19T19:02:41.360Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-19T19:02:41.360Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -482,6 +482,17 @@
             <loc>https://oldpersiangames.org/games/alter-ego-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/alter-ego-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/ambassador-of-love-monadianmedia/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/ambassador-of-love-monadianmedia-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -4677,6 +4688,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/legends-of-persia-sourenagamestudio/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/legends-of-persia-sourenagamestudio-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/lige-parsian-89-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/lige-parsian-89-sarirgame-1.jpg</image:loc>
@@ -6016,6 +6038,17 @@
             <loc>https://oldpersiangames.org/games/post-mortem-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/post-mortem-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/pouya-and-khepel-kpf/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/pouya-and-khepel-kpf-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9276,7 +9309,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-19T19:02:42.792Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-19T20:35:02.315Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
