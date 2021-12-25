@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-19T20:35:00.879Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -768,6 +768,17 @@
             <loc>https://oldpersiangames.org/games/battlefield-2-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/battlefield-2-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/battlefield-2-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/battlefield-2-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -6222,6 +6233,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/pro-evolution-soccer-2013-aryagame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/pro-evolution-soccer-2013-aryagame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/pro-evolution-soccer-2013-mod-novinpendar/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/pro-evolution-soccer-2013-mod-novinpendar-1.jpg</image:loc>
@@ -9309,7 +9331,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-19T20:35:02.315Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-25T16:03:47.527Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
