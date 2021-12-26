@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-26T21:20:06.342Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-26T21:20:06.342Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-26T21:20:06.342Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-25T16:03:45.963Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-26T21:20:06.342Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -644,6 +644,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/army-ranger-mogadishu-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/army-ranger-mogadishu-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/art-of-murder-cards-of-destiny-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/art-of-murder-cards-of-destiny-darinoos-1.jpg</image:loc>
@@ -845,6 +856,17 @@
             <loc>https://oldpersiangames.org/games/battlestrike-shadow-of-stalingrad-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/battlestrike-shadow-of-stalingrad-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/battlestrike-shadow-of-stalingrad-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/battlestrike-shadow-of-stalingrad-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -2127,6 +2149,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/constantine-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/constantine-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/contract-jack-magmasoft/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/contract-jack-magmasoft-1.jpg</image:loc>
@@ -2941,6 +2974,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/dmz-north-korea-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/dmz-north-korea-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/dogfight-1942-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/dogfight-1942-asrebazi-1.jpg</image:loc>
@@ -3549,6 +3593,17 @@
             <loc>https://oldpersiangames.org/games/final-attack-games-collection-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/final-attack-games-collection-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/finding-nemo-nemos-underwater-world-of-fun-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/finding-nemo-nemos-underwater-world-of-fun-asrebazi-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -4391,6 +4446,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/iron-storm-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/iron-storm-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/jack-the-ripper-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/jack-the-ripper-darinoos-1.jpg</image:loc>
@@ -4636,6 +4702,17 @@
             <loc>https://oldpersiangames.org/games/knight-rider-2-the-game-pardisgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/knight-rider-2-the-game-pardisgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/knight-rider-2-the-game-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/knight-rider-2-the-game-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -4955,6 +5032,17 @@
             <loc>https://oldpersiangames.org/games/max-payne-2-the-fall-of-max-payne-novinpendar/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/max-payne-2-the-fall-of-max-payne-novinpendar-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/max-payne-2-the-fall-of-max-payne-pcgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/max-payne-2-the-fall-of-max-payne-pcgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -5490,7 +5578,9 @@
        
         <url>
             <loc>https://oldpersiangames.org/games/need-for-speed-porsche-unleashed-sarirgame/</loc>
-            
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/need-for-speed-porsche-unleashed-sarirgame-1.jpg</image:loc>
+            </image:image>
             <changefreq>monthly</changefreq>
             
         </url>
@@ -5807,6 +5897,17 @@
             <loc>https://oldpersiangames.org/games/outland-lohegostaresh/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/outland-lohegostaresh-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/overspeed-high-performance-street-racing-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/overspeed-high-performance-street-racing-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -7025,6 +7126,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/secret-service-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/secret-service-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/sentinel-descendants-in-time-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/sentinel-descendants-in-time-darinoos-1.jpg</image:loc>
@@ -7435,6 +7547,17 @@
             <loc>https://oldpersiangames.org/games/sinking-island-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/sinking-island-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/sniper-art-of-victory-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/sniper-art-of-victory-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -8007,6 +8130,17 @@
             <loc>https://oldpersiangames.org/games/surfs-up-newtech/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/surfs-up-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/surfs-up-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/surfs-up-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9331,7 +9465,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-25T16:03:47.527Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-26T21:20:08.174Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
