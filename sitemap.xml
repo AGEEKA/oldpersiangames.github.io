@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-26T21:39:38.691Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-28T20:38:36.089Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-26T21:39:38.691Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-28T20:38:36.089Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-26T21:39:38.691Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-28T20:38:36.089Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,8 +30,19 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-26T21:39:38.691Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-28T20:38:36.093Z</lastmod>
             
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/007-quantum-of-solace-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/007-quantum-of-solace-asrebazi-modern-1.jpg</image:loc>
+            </image:image>
             <changefreq>monthly</changefreq>
             
         </url>
@@ -3656,6 +3667,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/freedom-convoy-studentbasij/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/freedom-convoy-studentbasij-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/freedom-first-resistance-darinoos-novintechnology/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/freedom-first-resistance-darinoos-novintechnology-1.jpg</image:loc>
@@ -3846,6 +3868,17 @@
             <loc>https://oldpersiangames.org/games/grand-ages-rome-the-reign-of-augustus-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/grand-ages-rome-the-reign-of-augustus-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/grand-theft-auto-deadly-trading-pardisgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/grand-theft-auto-deadly-trading-pardisgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -7115,6 +7148,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/scorpion-disfigured-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/scorpion-disfigured-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/secret-files-tunguska-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/secret-files-tunguska-darinoos-1.jpg</image:loc>
@@ -7555,6 +7599,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/sniper-1-and-2-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/sniper-1-and-2-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/sniper-art-of-victory-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/sniper-art-of-victory-sarirgame-1.jpg</image:loc>
@@ -7602,6 +7657,17 @@
             <loc>https://oldpersiangames.org/games/soldier-of-fortune-ii-double-helix-darinoos-novintechnology/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/soldier-of-fortune-ii-double-helix-darinoos-novintechnology-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/soldier-of-fortune-ii-double-helix-magmasoft/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/soldier-of-fortune-ii-double-helix-magmasoft-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -8031,6 +8097,17 @@
             <loc>https://oldpersiangames.org/games/stronghold-crusader-extreme-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/stronghold-crusader-extreme-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/stronghold-crusader-ii-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/stronghold-crusader-ii-modern-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -8985,6 +9062,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/tmnt-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/tmnt-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/tom-clancys-ghost-recon-advanced-warfighter-2-asrebazi-modern/</loc>
             
             <changefreq>monthly</changefreq>
@@ -9465,7 +9553,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-26T21:39:40.151Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-28T20:38:37.933Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
