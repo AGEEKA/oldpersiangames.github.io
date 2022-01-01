@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2021-12-31T22:07:06.865Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-01-01T19:02:28.417Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2021-12-31T22:07:06.865Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-01-01T19:02:28.417Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2021-12-31T22:07:06.865Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-01-01T19:02:28.417Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2021-12-31T22:07:06.865Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-01-01T19:02:28.417Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -2391,6 +2391,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/crash-time-iii-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/crash-time-iii-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/crazy-taxi-roga-novin/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/crazy-taxi-roga-novin-1.jpg</image:loc>
@@ -3142,6 +3153,17 @@
             <loc>https://oldpersiangames.org/games/driver-san-francisco-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/driver-san-francisco-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/driving-in-the-delijan-arvinstudio/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/driving-in-the-delijan-arvinstudio-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9104,6 +9126,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/tom-clancys-ghost-recon-island-thunder-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/tom-clancys-ghost-recon-island-thunder-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/tom-clancys-ghost-recon-novinpendar/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/tom-clancys-ghost-recon-novinpendar-1.jpg</image:loc>
@@ -9553,7 +9586,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2021-12-31T22:07:08.585Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-01-01T19:02:30.309Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
