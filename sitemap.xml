@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-01-01T19:14:25.680Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-01-04T19:28:57.143Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-01-01T19:14:25.680Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-01-04T19:28:57.143Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-01-01T19:14:25.680Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-01-04T19:28:57.143Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-01-01T19:14:25.680Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-01-04T19:28:57.143Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -6994,6 +6994,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/revenge-ii-lohezarrinenikan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/revenge-ii-lohezarrinenikan-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/revenge-t20/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/revenge-t20-1.jpg</image:loc>
@@ -9597,7 +9608,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-01-01T19:14:27.413Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-01-04T19:28:58.887Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
