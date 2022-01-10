@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-01-09T06:52:45.782Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-01-10T20:38:03.256Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-01-09T06:52:45.782Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-01-10T20:38:03.256Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-01-09T06:52:45.782Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-01-10T20:38:03.256Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-01-09T06:52:45.782Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-01-10T20:38:03.256Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -119,6 +119,17 @@
             <loc>https://oldpersiangames.org/games/advantures-of-mopol-sweet-dream-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/advantures-of-mopol-sweet-dream-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/afsane-norooz-tebyan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/afsane-norooz-tebyan-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9608,7 +9619,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-01-09T06:52:47.274Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-01-10T20:38:05.148Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
