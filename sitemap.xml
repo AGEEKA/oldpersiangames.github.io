@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-01-31T20:46:51.529Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-01-31T21:15:17.662Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-01-31T20:46:51.529Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-01-31T21:15:17.662Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-01-31T20:46:51.529Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-01-31T21:15:17.666Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-01-31T20:46:51.529Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-01-31T21:15:17.666Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -6059,6 +6059,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/path-to-glory-hi-vu/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/path-to-glory-hi-vu-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/patriots-a-nation-under-fire-asrebazi-modern/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/patriots-a-nation-under-fire-asrebazi-modern-1.jpg</image:loc>
@@ -9619,7 +9630,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-01-31T20:46:53.013Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-01-31T21:15:19.194Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
