@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-02T16:27:48.219Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-02T16:34:57.331Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-02T16:27:48.219Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-02T16:34:57.335Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-02T16:27:48.219Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-02T16:34:57.335Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-02T16:27:48.219Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-02T16:34:57.335Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -2413,6 +2413,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/crash-time-iii-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/crash-time-iii-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/crazy-taxi-roga-novin/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/crazy-taxi-roga-novin-1.jpg</image:loc>
@@ -4152,6 +4163,17 @@
             <loc>https://oldpersiangames.org/games/hard-reset-extended-edition-newtech/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/hard-reset-extended-edition-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/harley-davidson-race-to-the-rally-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/harley-davidson-race-to-the-rally-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9674,7 +9696,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-02T16:27:49.947Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-02T16:34:58.847Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
