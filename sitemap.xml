@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-02T16:54:06.530Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-02T16:59:50.076Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-02T16:54:06.534Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-02T16:59:50.076Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-02T16:54:06.534Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-02T16:59:50.076Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-02T16:54:06.534Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-02T16:59:50.076Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -8886,6 +8886,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/the-lost-land-barareh-vijehpardazpars/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/the-lost-land-barareh-vijehpardazpars-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/the-mark-asrebazi-modern/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/the-mark-asrebazi-modern-1.jpg</image:loc>
@@ -9707,7 +9718,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-02T16:54:08.050Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-02T16:59:51.596Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
