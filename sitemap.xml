@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-03T14:19:21.684Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-03T19:19:22.933Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-03T14:19:21.684Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-03T19:19:22.933Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-03T14:19:21.684Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-03T19:19:22.933Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-03T14:19:21.684Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-03T19:19:22.933Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -1417,6 +1417,17 @@
             <loc>https://oldpersiangames.org/games/call-of-duty-world-at-war-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/call-of-duty-world-at-war-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/call-of-duty-world-at-war-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/call-of-duty-world-at-war-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9718,7 +9729,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-03T14:19:23.196Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-03T19:19:24.705Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
