@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-03T21:20:44.670Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-03T21:30:46.717Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-03T21:20:44.670Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-03T21:30:46.717Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-03T21:20:44.670Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-03T21:30:46.717Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-03T21:20:44.670Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-03T21:30:46.717Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -2867,6 +2867,17 @@
             <loc>https://oldpersiangames.org/games/devastation-pcgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/devastation-pcgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/devil-den-2-studentbasij/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/devil-den-2-studentbasij-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9740,7 +9751,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-03T21:20:46.434Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-03T21:30:48.466Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
