@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-04T21:13:37.345Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-04T22:16:54.799Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-04T21:13:37.345Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-04T22:16:54.799Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-04T21:13:37.345Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-04T22:16:54.799Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-04T21:13:37.345Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-04T22:16:54.799Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -5599,6 +5599,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/ms-gold-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/ms-gold-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/murder-in-the-abbey-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/murder-in-the-abbey-darinoos-1.jpg</image:loc>
@@ -9762,7 +9773,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-04T21:13:38.893Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-04T22:16:56.331Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
