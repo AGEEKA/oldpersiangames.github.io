@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-05T19:29:25.900Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-05T19:29:25.900Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-05T19:29:25.900Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-05T19:29:25.900Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -1811,6 +1811,17 @@
             <loc>https://oldpersiangames.org/games/code-of-honor-3-desperate-measures-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/code-of-honor-3-desperate-measures-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/code-of-honor-3-desperate-measures-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/code-of-honor-3-desperate-measures-modern-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9795,7 +9806,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-05T19:02:31.799Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-05T19:29:27.448Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
