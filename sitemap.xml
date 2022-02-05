@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-05T20:27:34.836Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-05T20:32:55.112Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-05T20:27:34.836Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-05T20:32:55.112Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-05T20:27:34.836Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-05T20:32:55.112Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-05T20:27:34.836Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-05T20:32:55.112Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -8050,6 +8050,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/spore-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/spore-asrebazi-modern-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/spore-galactic-adventures-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/spore-galactic-adventures-asrebazi-1.jpg</image:loc>
@@ -9817,7 +9828,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-05T20:27:36.560Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-05T20:32:56.664Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
