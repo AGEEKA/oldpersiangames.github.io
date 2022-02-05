@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-05T18:54:46.975Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-05T18:54:46.975Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-05T18:54:46.975Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-05T18:54:46.975Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-05T19:02:30.111Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -7995,6 +7995,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/splitsecond-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/splitsecond-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/splitsecond-iogame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/splitsecond-iogame-1.jpg</image:loc>
@@ -9784,7 +9795,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-05T18:54:48.839Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-05T19:02:31.799Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
