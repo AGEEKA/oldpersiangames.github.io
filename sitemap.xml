@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-06T14:32:38.423Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-06T18:21:52.754Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-06T14:32:38.423Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-06T18:21:52.754Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-06T14:32:38.423Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-06T18:21:52.754Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-06T14:32:38.423Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-06T18:21:52.754Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -328,6 +328,17 @@
             <loc>https://oldpersiangames.org/games/airborne-troops-countdown-to-d-day-magmasoft/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/airborne-troops-countdown-to-d-day-magmasoft-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/airborne-troops-countdown-to-d-day-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/airborne-troops-countdown-to-d-day-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9828,7 +9839,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-06T14:32:40.215Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-06T18:21:54.378Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
