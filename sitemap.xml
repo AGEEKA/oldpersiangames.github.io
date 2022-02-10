@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-10T20:02:10.959Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-10T20:05:46.183Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-10T20:02:10.959Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-10T20:05:46.183Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-10T20:02:10.959Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-10T20:05:46.183Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-10T20:02:10.959Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-10T20:05:46.183Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -5808,6 +5808,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/need-for-speed-shift-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/need-for-speed-shift-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/neighbours-from-hell-1-and-2-magmasoft/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/neighbours-from-hell-1-and-2-magmasoft-1.jpg</image:loc>
@@ -9894,7 +9905,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-10T20:02:12.515Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-10T20:05:47.991Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
