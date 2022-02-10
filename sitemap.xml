@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-10T21:03:32.309Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-10T21:13:20.599Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-10T21:03:32.309Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-10T21:13:20.599Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-10T21:03:32.309Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-10T21:13:20.599Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-10T21:03:32.309Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-10T21:13:20.599Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -9731,6 +9731,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/wanted-weapons-of-fate-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/wanted-weapons-of-fate-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/warcommander-roga-novin/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/warcommander-roga-novin-1.jpg</image:loc>
@@ -9916,7 +9927,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-10T21:03:34.277Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-10T21:13:22.439Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
