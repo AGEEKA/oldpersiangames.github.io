@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-11T10:46:11.812Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-11T10:53:09.635Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-11T10:46:11.812Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-11T10:53:09.635Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-11T10:46:11.812Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-11T10:53:09.635Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-11T10:46:11.812Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-11T10:53:09.635Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -2383,6 +2383,17 @@
             <loc>https://oldpersiangames.org/games/crash-time-4-the-syndicate-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/crash-time-4-the-syndicate-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/crash-time-4-the-syndicate-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/crash-time-4-the-syndicate-modern-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -9949,7 +9960,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-11T10:46:13.388Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-11T10:53:11.463Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
