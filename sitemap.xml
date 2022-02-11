@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-11T10:20:34.698Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-11T10:26:39.706Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-11T10:20:34.698Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-11T10:26:39.706Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-11T10:20:34.698Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-11T10:26:39.706Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-11T10:20:34.698Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-11T10:26:39.706Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -7907,6 +7907,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/sniper-art-of-victory-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/sniper-art-of-victory-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/sniper-art-of-victory-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/sniper-art-of-victory-sarirgame-1.jpg</image:loc>
@@ -9938,7 +9949,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-11T10:20:36.278Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-11T10:26:41.566Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
