@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-23T10:41:57.325Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-24T11:18:04.195Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-23T10:41:57.325Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-24T11:18:04.195Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-23T10:41:57.325Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-24T11:18:04.195Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-23T10:41:57.329Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-24T11:18:04.195Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -6873,6 +6873,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/rainbow-toloucomuter/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/rainbow-toloucomuter-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/rambo-the-video-game-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/rambo-the-video-game-asrebazi-1.jpg</image:loc>
@@ -9971,7 +9982,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-23T10:41:59.185Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-24T11:18:06.027Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
