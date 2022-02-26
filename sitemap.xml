@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-25T18:36:41.470Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-26T00:35:17.107Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-25T18:36:41.470Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-26T00:35:17.107Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-25T18:36:41.470Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-26T00:35:17.107Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-25T18:36:41.470Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-26T00:35:17.107Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -2647,6 +2647,17 @@
             <loc>https://oldpersiangames.org/games/darkest-of-days-newtech/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/darkest-of-days-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/darkest-of-days-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/darkest-of-days-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -7302,6 +7313,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/rise-of-nations-rise-of-legends-ebay/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/rise-of-nations-rise-of-legends-ebay-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/road-rash-jailbreak-parsgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/road-rash-jailbreak-parsgame-1.jpg</image:loc>
@@ -9982,7 +10004,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-25T18:36:43.226Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-26T00:35:18.699Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
