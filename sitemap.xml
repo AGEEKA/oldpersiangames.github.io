@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-26T17:37:53.738Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-27T12:55:21.176Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-26T17:37:53.738Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-27T12:55:21.176Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-26T17:37:53.738Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-27T12:55:21.176Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-26T17:37:53.738Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-27T12:55:21.176Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -218,6 +218,17 @@
             <loc>https://oldpersiangames.org/games/age-of-empires-iii-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/age-of-empires-iii-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/age-of-empires-iii-the-asian-dynasties-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/age-of-empires-iii-the-asian-dynasties-asrebazi-modern-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -10015,7 +10026,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-26T17:37:55.666Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-27T12:55:22.984Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
