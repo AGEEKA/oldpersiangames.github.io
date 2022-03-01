@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-02-27T13:53:49.062Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-01T08:09:02.721Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-02-27T13:53:49.062Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-01T08:09:02.721Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-02-27T13:53:49.062Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-01T08:09:02.721Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-02-27T13:53:49.062Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-01T08:09:02.721Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -4545,6 +4545,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/in-the-shadow-of-magic-kooh-e-yakh-ariana/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/in-the-shadow-of-magic-kooh-e-yakh-ariana-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/incident-in-tehran-nuclear-energy-scientists-assassination-ourmazd/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/incident-in-tehran-nuclear-energy-scientists-assassination-ourmazd-1.jpg</image:loc>
@@ -4875,6 +4886,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/keshti-nejat-andishemabna/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/keshti-nejat-andishemabna-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/khale-ghezis-farm-asrebazi/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/khale-ghezis-farm-asrebazi-1.jpg</image:loc>
@@ -5098,6 +5120,17 @@
             <loc>https://oldpersiangames.org/games/lionheart-kings-crusade-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/lionheart-kings-crusade-darinoos-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/little-traveler-matnaa/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/little-traveler-matnaa-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -7786,6 +7819,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/shokufe-baran-andishemabna/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/shokufe-baran-andishemabna-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/shokufeh-pray-for-children-yasin/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/shokufeh-pray-for-children-yasin-1.jpg</image:loc>
@@ -10026,7 +10070,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-02-27T13:53:51.010Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-01T08:09:04.613Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
