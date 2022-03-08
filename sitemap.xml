@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-05T11:55:55.114Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-05T11:55:55.114Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-05T11:55:55.114Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-05T11:55:55.114Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -1557,6 +1557,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/cars-2-hi-vu/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/cars-2-hi-vu-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/cars-2-newtech/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/cars-2-newtech-1.jpg</image:loc>
@@ -2878,6 +2889,17 @@
             <loc>https://oldpersiangames.org/games/delta-force-xtreme-2-hi-vu/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/delta-force-xtreme-2-hi-vu-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/delta-force-xtreme-2-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/delta-force-xtreme-2-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -10070,7 +10092,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-05T11:55:56.731Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-08T12:14:58.570Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
