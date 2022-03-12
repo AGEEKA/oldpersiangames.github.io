@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-12T06:38:56.006Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-12T06:38:56.006Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-12T06:38:56.006Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-08T12:14:56.710Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-12T06:38:56.006Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -6114,6 +6114,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/oil-rush-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/oil-rush-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/oil-rush-newtech/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/oil-rush-newtech-1.jpg</image:loc>
@@ -10092,7 +10103,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-08T12:14:58.570Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-12T06:38:57.790Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
