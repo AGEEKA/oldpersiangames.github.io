@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-14T11:57:35.306Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-14T12:05:44.912Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-14T11:57:35.306Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-14T12:05:44.912Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-14T11:57:35.306Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-14T12:05:44.912Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-14T11:57:35.306Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-14T12:05:44.912Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -5621,6 +5621,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/mini-ninjas-newtech/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/mini-ninjas-newtech-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/mir-mahna-espris/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/mir-mahna-espris-1.jpg</image:loc>
@@ -10039,6 +10050,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/warriors-orochi-asrebazi-modern/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/warriors-orochi-asrebazi-modern-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/we-need-a-hero-lohezarrinenikan/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/we-need-a-hero-lohezarrinenikan-1.jpg</image:loc>
@@ -10147,7 +10169,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-14T11:57:37.026Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-14T12:05:46.792Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
