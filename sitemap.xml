@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-14T07:55:40.374Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-14T09:21:55.134Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-14T07:55:40.374Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-14T09:21:55.134Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-14T07:55:40.374Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-14T09:21:55.134Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-14T07:55:40.374Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-14T09:21:55.134Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -5819,6 +5819,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/murder-in-the-abbey-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/murder-in-the-abbey-asrebazi-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/murder-in-the-abbey-darinoos/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/murder-in-the-abbey-darinoos-1.jpg</image:loc>
@@ -6238,6 +6249,17 @@
             <loc>https://oldpersiangames.org/games/operation-matriarchy-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/operation-matriarchy-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/order-of-war-asrebazi/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/order-of-war-asrebazi-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -10125,7 +10147,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-14T07:55:42.002Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-14T09:21:57.134Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
