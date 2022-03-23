@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-23T00:11:13.545Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-23T08:26:43.951Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-23T00:11:13.545Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-23T08:26:43.951Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-23T00:11:13.545Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-23T08:26:43.951Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-23T00:11:13.545Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-23T08:26:43.951Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -6499,6 +6499,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/pgc09-lohezarrinenikan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/pgc09-lohezarrinenikan-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/pilot-down-behind-enemy-lines-sarirgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/pilot-down-behind-enemy-lines-sarirgame-1.jpg</image:loc>
@@ -10180,7 +10191,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-23T00:11:15.437Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-23T08:26:45.667Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
