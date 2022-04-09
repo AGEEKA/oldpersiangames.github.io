@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-03-26T07:14:28.170Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-03-26T07:14:28.170Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-03-26T07:14:28.170Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-03-26T07:14:28.170Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -9491,6 +9491,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/the-silent-ship-westgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/the-silent-ship-westgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/the-sims-2-university-novinpendar/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/the-sims-2-university-novinpendar-1.jpg</image:loc>
@@ -10191,7 +10202,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-03-26T07:14:30.062Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-04-09T19:58:11.593Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
