@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-04-09T19:58:09.685Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -3076,6 +3076,17 @@
             <loc>https://oldpersiangames.org/games/die-hard-nakatomi-plaza-roga-novin/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/die-hard-nakatomi-plaza-roga-novin-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/dino-crisis-2-magmasoft/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/dino-crisis-2-magmasoft-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -10202,7 +10213,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-04-09T19:58:11.593Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-04-14T18:20:46.976Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
