@@ -3,7 +3,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
+            <loc>https://oldpersiangames.org/about/</loc><lastmod>2022-04-18T07:41:06.588Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -12,7 +12,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
+            <loc>https://oldpersiangames.org/contribute-guide/</loc><lastmod>2022-04-18T07:41:06.588Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -21,7 +21,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
+            <loc>https://oldpersiangames.org/contributors/</loc><lastmod>2022-04-18T07:41:06.588Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -30,7 +30,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-04-14T18:20:45.104Z</lastmod>
+            <loc>https://oldpersiangames.org/copying-guide/</loc><lastmod>2022-04-18T07:41:06.588Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
@@ -350,6 +350,17 @@
             <loc>https://oldpersiangames.org/games/airborne-troops-7-games-ebay/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/airborne-troops-7-games-ebay-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/airborne-troops-countdown-to-d-day-aryan/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/airborne-troops-countdown-to-d-day-aryan-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -1131,6 +1142,17 @@
             <loc>https://oldpersiangames.org/games/bolt-pardisgame/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/bolt-pardisgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://oldpersiangames.org/games/bolt-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/bolt-sarirgame-1.jpg</image:loc>
             </image:image>
             <changefreq>monthly</changefreq>
             
@@ -7126,6 +7148,17 @@
     
        
         <url>
+            <loc>https://oldpersiangames.org/games/ratatouille-sarirgame/</loc>
+            <image:image>
+              <image:loc>https://oldpersiangames.org/photos/ratatouille-sarirgame-1.jpg</image:loc>
+            </image:image>
+            <changefreq>monthly</changefreq>
+            
+        </url>
+        
+    
+       
+        <url>
             <loc>https://oldpersiangames.org/games/raven-squad-operation-hidden-dagger-hi-vu/</loc>
             <image:image>
               <image:loc>https://oldpersiangames.org/photos/raven-squad-operation-hidden-dagger-hi-vu-1.jpg</image:loc>
@@ -10213,7 +10246,7 @@
     
        
         <url>
-            <loc>https://oldpersiangames.org/</loc><lastmod>2022-04-14T18:20:46.976Z</lastmod>
+            <loc>https://oldpersiangames.org/</loc><lastmod>2022-04-18T07:41:08.236Z</lastmod>
             
             <changefreq>monthly</changefreq>
             
